@@ -1,4 +1,4 @@
-# Titanic Dataset Analysis [Classifier learning]
+# Titanic Dataset Analysis [Classifier learning...]
 
 ## Overview
 This project is a comprehensive analysis of the Titanic dataset. The dataset contains information about the passengers aboard the Titanic, including their survival status, demographic details, and ticket information. The analysis aims to extract insights, identify trends, and build predictive models for passenger survival. Through this project, I learned a lot about data preprocessing, exploratory analysis, and machine learning.
